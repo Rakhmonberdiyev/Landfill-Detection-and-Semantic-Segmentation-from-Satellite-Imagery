@@ -1,0 +1,14 @@
+name: landfill-env
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch
+      - torchvision
+      - numpy
+      - pandas
+      - matplotlib
+      - scikit-learn
+      - tqdm
+      - opencv-python
+      - pyyaml

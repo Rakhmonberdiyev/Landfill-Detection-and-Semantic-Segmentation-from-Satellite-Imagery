@@ -1,0 +1,10 @@
+[
+    {
+        "Model": "model_resnet18",
+        "Epochs": 100,
+        "Train Acc": 0.998,
+        "Test Acc": 0.82,
+        "Training Time (s)": 14673,
+        "Inference Time (s)": 0.00015
+    }
+]
